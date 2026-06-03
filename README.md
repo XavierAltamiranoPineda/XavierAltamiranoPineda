@@ -56,13 +56,6 @@ Passionate about software development, databases, Linux systems, and building ef
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XavierAltamiranoPineda&theme=github-dark&hide_border=true" />
-</p>
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier%20Altamirano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-altamirano-642509195/)
