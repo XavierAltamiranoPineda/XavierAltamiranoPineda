@@ -56,21 +56,21 @@ Passionate about software development, databases, Linux systems, and building ef
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XavierAltamiranoPineda&theme=github-dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-altamirano-642509195/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier%20Altamirano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-altamirano-642509195/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanxavi777@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-xavialtamirano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XavierAltamiranoPineda/)
 
 ---
-⭐ Always learning, building, and improving.
+
+⭐ **Turning ideas into software solutions and continuously learning new technologies.**
