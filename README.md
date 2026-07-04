@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavi Altamirano</h1>
 
 <h3 align="center">
-Software Engineering Student | Developer in Training | Technology Enthusiast
+Software Engineering  | Developer in Training | Technology Enthusiast
 </h3>
 
 <p align="center">
