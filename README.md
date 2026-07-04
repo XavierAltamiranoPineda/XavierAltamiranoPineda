@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xavi Altamirano</h1>
+<h1 align="center">Hi , I'm Xavi Altamirano</h1>
 
 <h3 align="center">
 Software Engineering  | Developer in Training | Technology Enthusiast
@@ -10,19 +10,19 @@ Passionate about software development, databases, Linux systems, and building ef
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Software Engineering Student
-- 💻 Interested in Software Development and System Design
-- 📱 Exploring Mobile Development with Flutter
-- 🗄️ Working with Relational Databases
-- 🐧 Linux Enthusiast
-- 🌱 Currently learning Software Architecture and Design Patterns
-- 🚀 Always looking for opportunities to grow as a developer
+-  Software Engineering 
+-  Interested in Software Development and System Design
+-  Exploring Mobile Development with Flutter
+-  Working with Relational Databases
+-  Linux Enthusiast
+-  Currently learning Software Architecture and Design Patterns
+-  Always looking for opportunities to grow as a developer
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +43,7 @@ Passionate about software development, databases, Linux systems, and building ef
 
 ---
 
-## 📚 Academic Interests
+##  Academic Interests
 
 - Software Engineering
 - Object-Oriented Programming
@@ -56,7 +56,7 @@ Passionate about software development, databases, Linux systems, and building ef
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier%20Altamirano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-altamirano-642509195/)
 
@@ -66,4 +66,4 @@ Passionate about software development, databases, Linux systems, and building ef
 
 ---
 
-⭐ **Turning ideas into software solutions and continuously learning new technologies.**
+ **Turning ideas into software solutions and continuously learning new technologies.**
